@@ -1,0 +1,1 @@
+investigate the IP protocol, focusing on the IP datagram. We’ll do so by analyzing a trace of IP datagrams sent and received by an execution of the traceroute program. We’ll investigate the various fields in the IP datagram, and study IP fragmentation in detail.
